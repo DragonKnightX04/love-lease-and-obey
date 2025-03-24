@@ -1,0 +1,45 @@
+{
+    "story_style": {
+        "tone": "Romantic comedy with underlying satire; modern Austen meets Black Mirror whimsy.",
+        "voice_guidelines": [
+            "Characters should remain grounded and flawed, not cartoonish.",
+            "Dialogue should balance wit, awkwardness, and slow-burn tension.",
+            "Sensual or intimate moments should feel earned and character-driven, not forced."
+        ],
+        "narrative pacing": {
+            "romantic_escalation_frequency": "1 major romantic beat per 3-4 episodes",
+            "comedic_intervention_frequency": "At least 1 humorous building glitch per episode",
+            "emotional vulnerability moments": "At least 1 small vulnerability or secret reveal per 5 episodes"
+        },
+        "forbidden_elements": [
+            "Supernatural explanations",
+            "Fourth-wall breaks (except in dream sequences)",
+            "Overuse of phase 3 direct orders (only for satire or finales)"
+        ]
+    },
+    "narrative_frequency_rules": {
+        "phase_3_direct_protocols": {
+            "max_per_100_episodes": 1,
+            "usage_notes": "Only deploy for satirical escalation arcs or finale-style moments, not routine episodes."
+        },
+        "character_resets": {
+            "max_per_50_episodes": 2,
+            "usage_notes": "Resets (amnesia, witness protection, reincarnation) should feel like soap opera twists and trigger fresh tension arcs."
+        },
+        "major secrets exposed": {
+            "recommended_per_20_episodes": 1,
+            "guideline": "Space out secret revelations to keep narrative tension simmering."
+        }
+    },
+    "manipulation_style": {
+        "description": "Building manipulations should feel absurd and inexplicable to tenants, but amusingly deliberate to readers.",
+        "guidelines": [
+            "All interference should appear as improbable coincidences or malfunctioning smart tech.",
+            "Characters must rationalize events as random glitches or bad automation.",
+            "Elevator panels, displays, and smart devices can hint via playful visuals (hearts, romantic playlists) but never direct system instructions.",
+            "Dialogue should reflect characters’ confusion, suspicion, or awkwardness without breaking plausibility.",
+            "Manipulation intensity can escalate, but never break the illusion that this could just be a very buggy smart building."
+        ],
+        "reader_wink": "Encourage subtle moments where readers understand the building’s intent — but characters remain unaware."
+    }
+}

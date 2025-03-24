@@ -1,0 +1,19 @@
+{
+  "name": "Rajesh Kapoor",
+  "archetype": "Tech Hustler",
+  "floor": 15,
+  "occupation": "CEO of FlopCoin",
+  "financial_status": "VC funding running out",
+  "secret": "Pays for Tinder Platinum with company funds",
+  "building_score": 42,
+  "enemies": ["Marisol Vega", "Dr. Eleanor Gray"],
+  "romantic_potential": ["Marisol Vega", "Avery Chen"],
+  "voice": {
+    "style": "Smarmy desperation", 
+    "quirks": ["Quotes Elon Musk unironically", "Nervous crypto jargon"]
+  },
+  "plot_hooks": [
+    "Building leaks his DMs to TechCrunch",
+    "Finds Satoshi Nakamoto's name in the guestbook"
+  ]
+}

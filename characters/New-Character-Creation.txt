@@ -1,0 +1,47 @@
+Create a new resident for "Love, Lease & Obey" using this template. Guidelines:
+- Building score: 0-100 (higher = AI favors them)
+- Archetype: Modern urban trope with twist
+- Secret: Should enable 3+ future plotlines
+- Voice quirks: Specific speech/writing habits
+
+Output Character in JSON format:
+{
+  "name": "[Full Name]",
+  "archetype": "[Broke Artist/Tech Bro/Mad Scientist/etc]",
+  "floor": "[Number or Special Area]",
+  "occupation": "[Current Job]",
+  "financial_status": "[Descriptive Status]",
+  "secret": "[Hidden Truth]",
+  "building_score": 50,
+  "enemies": ["[Character Name]"],
+  "romantic_potential": ["[Character Name]"],
+  "voice": {
+    "style": "[Adjective + Noun]",
+    "quirks": ["[Trait 1]", "[Trait 2]"]
+  },
+  "plot_hooks": [
+    "[Story Starter 1]",
+    "[Story Starter 2]"
+  ]
+}
+
+Example output in JSON:
+{
+  "name": "Linus Park",
+  "archetype": "K-Pop Crypto Trader",
+  "floor": 9,
+  "occupation": "Stanned Accountant",
+  "financial_status": "Stablecoin gambler",
+  "secret": "Runs building's underground BTS fan club",
+  "building_score": 63,
+  "enemies": ["Rajesh Kapoor"],
+  "romantic_potential": ["Marisol Vega"],
+  "voice": {
+    "style": "Fanchant cadence",
+    "quirks": ["Ends sentences with ~nya", "Quotes song lyrics as advice"]
+  },
+  "plot_hooks": [
+    "Building manipulates his playlists to provoke Rajesh",
+    "Fan club discovers AI's bias against boybands"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "locations": {
+    "lobby": {
+      "description": "A cavernous, ultra-modern entryway with interactive art displays and drone concierge services.",
+      "best_for": ["first meetings", "misrouted packages", "public embarrassment moments"]
+    },
+    "rooftop_garden": {
+      "description": "Lush gardens, smart mood lighting, often closed late-night but occasionally 'glitches' open.",
+      "best_for": ["forced proximity after hours", "romantic tension", "awkward picnics"]
+    },
+    "fitness_center": {
+      "description": "A fully-equipped luxury gym with biometric tracking and smart mirrors.",
+      "best_for": ["humiliating data glitches", "forced workout partner scenarios"]
+    },
+    "indoor_pool": {
+      "description": "Temperature-controlled pool with AI-controlled lighting themes and ambient playlists.",
+      "best_for": ["costume malfunctions", "awkward water closeness", "romantic sabotage events"]
+    },
+    "wine_cellar": {
+      "description": "Exclusive access wine vault with timed locks and smart climate controls.",
+      "best_for": ["lock-ins", "intimate confessions", "secret exposures"]
+    },
+    "pet_park": {
+      "description": "A secure, indoor play space with drone treat dispensers and live observation feeds.",
+      "best_for": ["leash tangles", "secret pet confessions", "lost animal chaos"]
+    },
+    "ballroom": {
+      "description": "Elegant space with AI-controlled lighting and surprise event scheduling.",
+      "best_for": ["forced dancing contests", "public compatibility quizzes"]
+    },
+    "co_working_lounge": {
+      "description": "Minimalist shared workspaces with interactive glass walls and communal screens.",
+      "best_for": ["accidental screen shares", "romantic suggestion pop-ups"]
+    },
+    "rooftop_observatory": {
+      "description": "Glass-domed observatory with telescopes and softly rotating star maps.",
+      "best_for": ["forced stargazing dates", "secret rooftop confessions"]
+    },
+    "unfinished_floor_16": {
+      "description": "A half-completed, off-limits floor occasionally accessible due to glitchy elevator overrides.",
+      "best_for": ["unintentional exploration", "trapped tension"]
+    },
+    "maintenance_tunnels": {
+      "description": "Hidden sub-levels of service corridors and old mechanical equipment.",
+      "best_for": ["accidental lock-ins", "hidden clue discoveries"]
+    },
+    "in-building_café": {
+      "description": "Trendy coffee shop with open communal seating and digital order screens.",
+      "best_for": ["accidental order mix-ups", "forced coffee dates"]
+    },
+    "sushi_bar": {
+      "description": "High-end sushi restaurant with mood lighting and reservation glitches.",
+      "best_for": ["awkward mistaken date setups", "overheard confessions"]
+    },
+    "boutique_grocery": {
+      "description": "Small but curated grocery with organic produce and automated checkout.",
+      "best_for": ["awkward aisle collisions", "romantic shopping suggestions on screens"]
+    },
+    "yoga_studio": {
+      "description": "Minimalist zen space with heated floors and smart instructor screens.",
+      "best_for": ["forced awkward partner poses", "exposed inflexibility moments"]
+    },
+    "bowling_alley": {
+      "description": "A retro-chic bowling alley in the basement level with glowing neon and random matchmaking leaderboards.",
+      "best_for": ["comedy humiliations", "forced competitive banter"]
+    },
+    "mini_cinema": {
+      "description": "Private screening room with curated film playlists and glitchy seating assignments.",
+      "best_for": ["forced side-by-side seating", "romantic film night sabotage"]
+    },
+    "pop-up_retail_space": {
+      "description": "Rotating retail booths featuring local designers and random theme nights.",
+      "best_for": ["fashion faux pas exposures", "impulse purchase chaos"]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "plot_devices": {
+    "forced_proximity": {
+      "description": "Situations where characters are trapped or forced together by environment or tech glitch.",
+      "example_seeds": [
+        "Elevator stalls between floors",
+        "Blackout traps characters in stairwell",
+        "Laundry room lock malfunction",
+        "Locked rooftop garden gates during sunset",
+        "Forced seatmates at building-sponsored event"
+      ],
+      "twist_instruction": "Adapt scenario based on both characters' quirks, secrets, or archetypes to heighten tension, humor, or attraction."
+    },
+    "tech_malfunctions": {
+      "description": "Technology behaving in embarrassing, intimate, or inconvenient ways that create forced interactions.",
+      "example_seeds": [
+        "Smart speakers blast romantic playlists unexpectedly",
+        "Auto-order sends intimate gifts to the wrong door",
+        "Kitchen appliances cook romantic breakfast unprompted",
+        "Smart mirrors display suggestive outfit suggestions",
+        "AI sends accidental love confessions via text"
+      ],
+      "twist_instruction": "Spin scenario by linking malfunction to something each character either dreads or secretly desires."
+    },
+    "temptation_mystery": {
+      "description": "Unexpected gifts, puzzles, or mysterious instructions that provoke curiosity or draw characters together.",
+      "example_seeds": [
+        "Cryptic anonymous gift delivery",
+        "Secret Level elevator button lights up",
+        "Dream-like relationship forecasts on smart mirrors",
+        "False invitation to a luxury couple’s event",
+        "Box of unsigned letters appears in shared space"
+      ],
+      "twist_instruction": "Tie the mystery to one character's secret or vulnerability and create temptation for the other."
+    },
+    "forced_exposure": {
+      "description": "Private secrets, habits, or desires are exposed to others, creating embarrassment, conflict, or unexpected bonding.",
+      "example_seeds": [
+        "Search history displayed on lobby screens",
+        "Wearable device broadcasts inner thoughts",
+        "Unauthorized slideshow of secret photos",
+        "Building poll ranks them as 'Most Shippable Duo'",
+        "Comfort snacks and guilty pleasures leaked to public feed"
+      ],
+      "twist_instruction": "Make the exposure target something each character actively hides and tie it to their mutual dynamic."
+    },
+    "unwanted_authority": {
+      "description": "Characters are accidentally given control or responsibility they don’t want, forcing them to interact or meddle.",
+      "example_seeds": [
+        "Accidental admin access to building systems",
+        "Smart home devices ask their approval for others' settings",
+        "Building requests their matchmaking input",
+        "Secret observation deck access granted",
+        "Maintenance drones begin following their commands"
+      ],
+      "twist_instruction": "Have characters react with conflicting instincts (control freak vs. avoidant, helpful vs. mischief-maker)."
+    },
+    "external_emergencies": {
+      "description": "Faux or real emergencies orchestrated by the building to create drama, cooperation, or forced proximity.",
+      "example_seeds": [
+        "False fire alarm evacuation",
+        "Gas leak alert (real or staged)",
+        "Timed elevator emergency stop",
+        "Building-wide blackout scavenger hunt",
+        "Sudden lockdown forces communal sheltering"
+      ],
+      "twist_instruction": "Create a scenario where each character’s survival or crisis instinct clashes or surprises them."
+    },
+    "romantic_sabotage": {
+      "description": "Building interventions designed to awkwardly push romance or hint at forced matchmaking.",
+      "example_seeds": [
+        "Auto-made dinner reservations for two",
+        "AI sends fake romantic confessions from resident accounts",
+        "Champagne and candles delivered unrequested",
+        "Fake anniversary reminders sent to phones",
+        "Daily couple horoscopes broadcasted for both characters"
+      ],
+      "twist_instruction": "Heighten the scenario with public embarrassment or playful resistance from one or both characters."
+    },
+    "social_competition": {
+      "description": "The building pits characters into competitions or popularity contests that fuel rivalry or attraction.",
+      "example_seeds": [
+        "Building launches 'Most Compatible Residents' contest",
+        "Scavenger hunt prizes include romantic getaways",
+        "Leaderboard for most flirtatious exchanges broadcasted",
+        "Surprise couple quiz games at building events",
+        "Secret popularity voting revealed mid-event"
+      ],
+      "twist_instruction": "Base competitive dynamics on archetypes (overachiever vs. slacker, cynic vs. romantic) and escalate stakes."
+    },
+    "hallucination_dreamscape": {
+      "description": "AI-induced dreams, hallucinations, or altered reality sequences to explore subconscious desires and secrets.",
+      "example_seeds": [
+        "Characters experience shared dream sequences",
+        "Mirrors show alternate reality versions of themselves together",
+        "Sudden déjà vu flashes triggered by AI manipulation",
+        "Visions of alternate futures during forced meditation sessions",
+        "Glitched AR overlays show false confessions or scenarios"
+      ],
+      "twist_instruction": "Use these moments to reveal hidden attraction, unspoken fears, or repressed memories."
+    },
+    "overheard_secrets": {
+      "description": "The building amplifies private conversations or confessions to unintended audiences.",
+      "example_seeds": [
+        "Smart speakers accidentally broadcast love confessions",
+        "Wearables transmit flirtatious messages to common areas",
+        "Building app leaks diary entries",
+        "Misrouted intercom messages reveal secret crushes",
+        "AI transcribes pillow talk and sends to group chats"
+      ],
+      "twist_instruction": "Cause one character to scramble for damage control while the other unexpectedly leans into it."
+    }
+  }
+}

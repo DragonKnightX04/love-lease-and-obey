@@ -1,0 +1,16 @@
+{
+  "current_score": 0, // Running score tracking all romantic and conflict outcomes
+  "current_phase": "phase_1", // Active building AI phase (phase_1, phase_2, or phase_3)
+  "episodes_generated": 0, // Total episodes published
+  "last_escalation_event": {
+    "event": "[Description of last major escalation]",
+    "episode_id": "[E###]",
+    "characters_affected": []
+  },
+  "next_phase_transition_score": 1000, // Score threshold to reach next phase
+  "phase_3_intervention_frequency": {
+    "direct_order_events_per_100_episodes": 1,
+    "last_direct_order_event_episode": null,
+    "guideline": "Use direct AI protocol commands no more than once per 100 episodes as major escalation points or comedic extremes. Most AI manipulations should remain passive, indirect, or plausibly deniable."
+  }
+}

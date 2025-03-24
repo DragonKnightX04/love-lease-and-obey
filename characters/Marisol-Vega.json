@@ -1,0 +1,19 @@
+{
+  "name": "Marisol Vega",
+  "archetype": "Broke Artist",
+  "floor": 14,
+  "occupation": "Graffiti Muralist",
+  "financial_status": "Eviction pending ($8k behind)",
+  "secret": "Harbors 3 rescue cats in HVAC ducts",
+  "building_score": 67,
+  "enemies": ["Rajesh Kapoor", "Property Management"],
+  "romantic_potential": ["Javier Mendoza", "Avery Chen"],
+  "voice": {
+    "style": "Snarky idealism",
+    "quirks": ["Art metaphors as insults", "Hisses when angry"]
+  },
+  "plot_hooks": [
+    "Building threatens cat exposure unless she dates Rajesh",
+    "Finds mysterious paw prints in restricted areas"
+  ]
+}

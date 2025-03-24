@@ -1,0 +1,16 @@
+{
+  "queue": [
+    {
+      "planned_event": "Forced proximity via HVAC malfunction",
+      "target_characters": ["Avery Chen", "Rajesh Kapoor"],
+      "trigger_window": "E252-E253",
+      "priority": "high"
+    },
+    {
+      "planned_event": "Public shaming leaderboard reveal",
+      "target_characters": ["Rajesh Kapoor"],
+      "trigger_window": "E255",
+      "priority": "medium"
+    }
+  ]
+}

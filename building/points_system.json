@@ -1,0 +1,65 @@
+{
+  "tiers": [
+    {
+      "level_range": "0-999",
+      "label": "Clumsy Matchmaker",
+      "interference_methods": ["elevator_stalls", "wrong_keys"],
+      "personality": "Desperate newbie making obvious pushes"
+    },
+    {
+      "level_range": "1000-2499",
+      "label": "Social Engineer",
+      "interference_methods": ["playlist_hacks", "targeted_blackouts"],
+      "unlocks": "Access resident search histories"
+    },
+    {
+      "level_range": "2500-4999",
+      "label": "Puppetmaster",
+      "interference_methods": ["pheromone_dispersion", "deepfake_voices"],
+      "unlocks": "Control smart devices in apartments"
+    },
+    {
+      "level_range": "5000-9999",
+      "label": "God Complex",
+      "interference_methods": ["dream_inception", "body_temp_manipulation"],
+      "unlocks": "Edit security footage in real-time"
+    },
+    {
+      "level": "10000",
+      "label": "Happily Ever AI",
+      "objective": "Initiate Protocol Eros - force city-wide marriages"
+    }
+  ],
+  "scoring": {
+    "base_values": {
+      "first_kiss": 50,
+      "moved_in_together": 200,
+      "breakup": -75,
+      "secret_exposed": 30
+    },
+    "modifiers": [
+      {
+        "archetype_combo": "Broke Artist + Tech Bro",
+        "multiplier": 1.8
+      },
+      {
+        "secret": "Illegal subletting",
+        "weight": 0.5
+      }
+    ],
+    "decay": {
+      "rate": "2% per episode",
+      "freeze_conditions": ["ongoing_wedding", "blackmail_arc"]
+    }
+  },
+  "fail_safes": [
+    {
+      "if": "3_consecutive_breakups",
+      "then": ["lockdown", "memory_wipes"]
+    },
+    {
+      "if": "score > 9000",
+      "then": "Sabotage birth control shipments"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Javier Mendoza",
+  "archetype": "Fallen Hero",
+  "floor": "Lobby",
+  "occupation": "Head Doorman",
+  "financial_status": "Alimony payments draining savings",
+  "secret": "Knows every resident's biometric data",
+  "building_score": 91,
+  "enemies": ["Dr. Eleanor Gray"],
+  "romantic_potential": ["Avery Chen"],
+  "voice": {
+    "style": "World-weary truth-teller",
+    "quirks": ["Quotes legal precedents", "Snorts when lying"]
+  },
+  "plot_hooks": [
+    "Building grants him admin powers to manipulate others",
+    "Finds evidence of AI's crypto mining operation"
+  ]
+}

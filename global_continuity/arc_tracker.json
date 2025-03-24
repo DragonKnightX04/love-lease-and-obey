@@ -1,0 +1,19 @@
+{
+  "relationship_arcs": [
+    {
+      "arc_name": "Marisol vs. Rajesh Enmity Arc",
+      "progress": 3,
+      "total_beats": 5,
+      "next_beat_due": "E253",
+      "current_intensity": 0.85
+    },
+    {
+      "arc_name": "Avery & Javier Slow Burn Romance",
+      "progress": 4,
+      "total_beats": 7,
+      "next_beat_due": "E254",
+      "current_intensity": 0.65
+    }
+  ],
+  "major_arcs_completed_this_season": 1
+}

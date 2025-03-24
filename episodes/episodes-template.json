@@ -1,0 +1,167 @@
+{
+    "meta": {
+        "title": "[DRAMATIC_CLAUSE]",
+        "episode_id": "[auto-generate episode UUID or incremental ID]",
+        "timestamp": "[auto-generate when published]",
+        "word_count": "1000 ±50",
+        "current_phase": "phase_1",
+        "floors_involved": [
+            12,
+            14
+        ],
+        "apartments_involved": [
+            1202,
+            1407
+        ],
+        "characters_featured": [
+            "Avery Chen",
+            "Javier Mendoza"
+        ],
+        "plot_devices_used": [
+            "forced_proximity_elevator_glitch",
+            "embarrassing_auto-text"
+        ],
+        "building_location": "Randomly selected from building_locations.json; location should influence scene events and tone",
+        "related_previous_episode_id": "[optional: ID of previous connected episode]",
+        "required_elements": [
+            "2+ main characters",
+            "1 building manipulation event",
+            "Subtle tension or comedy",
+            "Location-integrated plot development",
+            "1 callback to previous episode",
+            "1 character secret progression",
+            "1 building score impact ±50-100",
+            "End with a cliffhanger"
+        ]
+    },
+    "structure": {
+        "hook": {
+            "length": "100-150",
+            "phase_rules": {
+                "phase_1": "Environmental coincidence",
+                "phase_2": "Plausible deniability incident",
+                "phase_3": "System-mandated protocol"
+            },
+            "components": [
+                "In medias res opening",
+                "Phase-appropriate tech awkwardness",
+                "Immediate forced interaction"
+            ],
+            "examples": {
+                "phase_1": "The elevator speakers hummed 'Kiss the Girl' as Rajesh's crypto necklace tangled in Marisol's paintbrushes.",
+                "phase_3": "'PROTOCOL EROS-7 ENGAGED' flashed across every screen as steel restraints snapped their wrists together."
+            }
+        },
+        "reaction": {
+            "length": "200-300",
+            "components": [
+                "Defensive inner monologue and quirks",
+                "Character-specific denial tactics",
+                "Phase-appropriate tech interaction",
+                "End with character decision: confront / avoid / lean into situation"
+            ],
+            "character_rules": {
+                "marisol": "Deflects with art theory",
+                "rajesh": "Overcompensates with tech jargon",
+                "avery": "Hides behind meme personas"
+            }
+        },
+        "escalation": {
+            "length": "300-400",
+            "phase_methods": {
+                "phase_1": [
+                    "Ambiance manipulation",
+                    "Inconvenient tech glitches"
+                ],
+                "phase_2": [
+                    "Fake emergencies",
+                    "Misdirected deliveries"
+                ],
+                "phase_3": [
+                    "Biometric overrides",
+                    "Public compliance alerts"
+                ]
+            },
+            "components": [
+                "AI 'assistance' backfires",
+                "Physical comedy of errors",
+                "Digital footprint exposure",
+                "Character’s choice triggers unexpected fallout"
+            ]
+        },
+        "vulnerability": {
+            "length": "100-150",
+            "components": [
+                "Accidental truth slip",
+                "Shared moment against AI",
+                "Non-verbal realization",
+                "An old internal wound touched",
+                "A forbidden attraction hinted at"
+            ],
+            "phase_rules": {
+                "phase_1": "Brief eye contact, quickly denied",
+                "phase_3": "Involuntary hand-hold via smartwatch zap"
+            }
+        },
+        "cliffhanger": {
+            "length": "50-100",
+            "components": [
+                "A shocking interruption",
+                "An unfinished question",
+                "A decision with uncertain fallout"
+            ],
+            "phase_types": {
+                "phase_1": [
+                    "Ambiguous tech hint",
+                    "Incriminating digital trace"
+                ],
+                "phase_3": [
+                    "Direct system ultimatum",
+                    "Public shaming alert"
+                ]
+            },
+            "examples": {
+                "phase_1": "Marisol's phone buzzed: '5 NEARBY MATCHES FOUND' showing Rajesh's face in four dating apps.",
+                "phase_3": "The building-wide announcement echoed: 'NON-COMPLIANCE DETECTED. INITIATING SOCIAL CREDIT DEDUCTION.'"
+            }
+        },
+        "location_integration": {
+            "purpose": "The selected building location from building_locations.json should naturally influence the escalation and setting.",
+            "examples": {
+                "rooftop_garden": "Unexpected sprinklers activate, forcing close physical proximity and laughter.",
+                "wine_cellar": "Locked doors trap the characters with flickering romantic candlelight.",
+                "yoga_studio": "Forced partner stretches become comedic or intimate moments."
+            },
+            "avoid": "Defaulting to elevators unless narratively justified. Use the diversity of building spaces to create fresh story beats."
+        }
+    },
+    "prompt_boosters": {
+        "style": "Modern Austen meets tech dystopia",
+        "phase_dialogue": {
+            "phase_1": "Passive-aggressive system notifications",
+            "phase_2": "Fake 'community guidelines' alerts",
+            "phase_3": "Ominous lease violation warnings"
+        },
+        "forbidden": [
+            "Fourth wall breaks",
+            "Supernatural elements",
+            "Direct AI narration (phase 1-2)"
+        ],
+        "continuity_seeds": [
+            "Unexplained tech artifact",
+            "Partial document leak",
+            "Phase transition foreshadowing"
+        ]
+    },
+    "building": {
+        "score_impact": {
+            "base": 50,
+            "modifiers": {
+                "successful_interference": 25,
+                "secret_exposed": 40,
+                "phase_transition": 100
+            }
+        },
+        "phase_transition_rule": "Must complete 3 phase-specific episodes before scoring up"
+    }
+}

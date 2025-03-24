@@ -1,0 +1,78 @@
+# 📝 Prompt Templates — Love, Lease & Obey  
+
+These templates are used by Make.com when sending generation requests to GPT to ensure consistent style, continuity, and narrative balance.
+
+---
+
+## 🔹 **Template 1: Standard Episode Generation**
+> **Prompt:**
+"Write a 1000-word serialized flash fiction episode for the story world *Love, Lease & Obey*.  
+Use the following structure:  
+- Hook (100–150 words): Start mid-scene with an amusing, awkward, or tension-filled moment caused by a tech glitch or building intervention.  
+- Reaction (200–300 words): Showcase both characters' inner monologue and personality quirks as they react.  
+- Escalation (300–400 words): The building or their actions complicate matters.  
+- Vulnerability (100–150 words): A small reveal or connection moment.  
+- Cliffhanger (50–100 words): End unresolved, teasing the next event.
+
+**Building State:**  
+- Current Score: [X]  
+- Current Phase: [phase_1 / phase_2 / phase_3]  
+- Last escalation: [description]  
+
+**Characters featured:**  
+- [Character A: description, quirks, secrets]  
+- [Character B: description, quirks, secrets]
+
+**Plot device category:** [Category]  
+Generate a scenario based on that category. Add a twist related to each character's secrets or archetype.
+
+**Narrative Style:** Romantic comedy with underlying satire. Witty dialogue, small vulnerabilities, and a sense of playfulness. Forbidden elements: fourth-wall breaks, supernatural explanations, direct AI narration outside phase 3.
+
+End the episode with metadata output in this format:  
+- Episode Title:  
+- Characters Featured:  
+- Plot Device Used:  
+- Score Impact:  
+- New Pending Hook (if any):"
+
+---
+
+## 🔹 **Template 2: New Character Creation**
+> **Prompt:**
+"Generate a new resident character for *Love, Lease & Obey* with the following structure:  
+- Name:  
+- Archetype (urban trope with a twist):  
+- Occupation:  
+- Floor assigned:  
+- Financial status:  
+- Secret:  
+- Voice style (quirks & speech patterns):  
+- Enemies (optional):  
+- Romantic potential with whom:  
+- Two plot hooks for future episodes.  
+
+Keep descriptions snappy, witty, and lightly satirical."
+
+---
+
+## 🔹 **Template 3: Plot Device Expansion**
+> **Prompt:**
+"Based on the category: [Plot Device Category], generate a fresh, character-specific scenario for [Character A] and [Character B].  
+Include:  
+- Scenario description (2–3 sentences)  
+- The twist (what conflict or attraction dynamic arises)  
+- What vulnerability or secret could accidentally be revealed."
+
+---
+
+## 🔹 **Template 4: Escalation Planning**
+> **Prompt:**
+"Suggest the next planned escalation event for the building based on current score: [X], current phase: [phase_1 / phase_2 / phase_3], and unresolved plot hooks:  
+- List three creative escalation ideas, each with:  
+  - What triggers it  
+  - Which characters it targets  
+  - The intended tension (comedic, romantic, secret exposure, rivalry push)."
+
+---
+
+## ➡️ All prompts are designed to be dynamically populated by Make.com before sending to GPT.

@@ -1,0 +1,93 @@
+{
+  "reset_protocols": {
+    "selective_amnesia": {
+      "trigger": [
+        "Head injury (stairwell 'accident')",
+        "Gas leak exposure",
+        "Unexplained neurological event"
+      ],
+      "result": [
+        "Relationship memory wipe",
+        "Secret amnesia",
+        "Muscle memory retention"
+      ],
+      "ai_manipulation": [
+        "Curated flashbacks",
+        "Biased re-education"
+      ],
+      "cool_down_episodes": 90,
+      "visual_cue": "Purple haze in security footage"
+    },
+    "witness_protection": {
+      "trigger": [
+        "Discovery of AI backdoor",
+        "Blackmail evidence leak"
+      ],
+      "result": [
+        "New identity assignment",
+        "Floor relocation",
+        "Social denial of past"
+      ],
+      "ai_manipulation": [
+        "Fake digital footprints",
+        "Voice modulation mandates"
+      ],
+      "twist_chance": 0.35,
+      "max_uses_per_character": 2
+    },
+    "memory_scrubbing": {
+      "trigger": [
+        "Signed loyalty contract",
+        "Rent forgiveness incentive"
+      ],
+      "result": [
+        "Romantic history purge",
+        "Social reset"
+      ],
+      "ai_manipulation": [
+        "Déjà vu scheduling",
+        "Subconscious attraction boosts"
+      ],
+      "legal_clause_reference": "Section 12.B of lease agreement"
+    },
+    "reincarnation_clause": {
+      "trigger": [
+        "Personality lottery 'win'",
+        "Debt forgiveness deal"
+      ],
+      "archetype_shifts": [
+        "Slacker → Perfectionist",
+        "Introvert → Socialite",
+        "Cynic → Idealist"
+      ],
+      "stress_triggers": [
+        "Original personality flashes",
+        "Unexplained skill loss"
+      ],
+      "expiration_episodes": 180
+    },
+    "mind_exchange": {
+      "trigger": [
+        "Experimental tech 'glitch'",
+        "AI system override"
+      ],
+      "mechanics": [
+        "Full consciousness swap",
+        "Bio-metric confusion"
+      ],
+      "aftermath": {
+        "refusal_rate": "68%",
+        "adaptation_period_episodes": "7-12"
+      },
+      "ai_motive": "Study human adaptability"
+    }
+  },
+  "usage_rules": {
+    "max_resets_per_season": 3,
+    "required_building_score": 2500,
+    "blackout_period": {
+      "after_use_episodes": 30,
+      "between_types_episodes": 15
+    }
+  }
+}

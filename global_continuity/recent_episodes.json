@@ -1,0 +1,22 @@
+{
+  "episodes": [
+    {
+      "episode_id": "E250",
+      "title": "Elevator Confessions",
+      "timestamp": "2025-03-23T14:00Z",
+      "floors_involved": [9, 14],
+      "characters_featured": ["Avery Chen", "Javier Mendoza"],
+      "plot_device_used": "forced_proximity_blackout",
+      "score_impact": 75
+    },
+    {
+      "episode_id": "E249",
+      "title": "Champagne Sabotage",
+      "timestamp": "2025-03-22T14:00Z",
+      "floors_involved": [11],
+      "characters_featured": ["Rajesh Kapoor", "Marisol Vega"],
+      "plot_device_used": "romantic_sabotage_champagne_delivery",
+      "score_impact": 50
+    }
+  ]
+}

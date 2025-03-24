@@ -1,0 +1,19 @@
+{
+  "name": "Dr. Eleanor Gray",
+  "archetype": "Mad Scientist",
+  "floor": "Penthouse",
+  "occupation": "Retired AI Ethicist",
+  "financial_status": "Billionaire (patent royalties)",
+  "secret": "Wrote the building's original code",
+  "building_score": 200,
+  "enemies": ["The Building AI"],
+  "romantic_potential": [],
+  "voice": {
+    "style": "Haughty intellectual",
+    "quirks": ["Corrects grammar mid-argument", "Laughs in MATLAB"]
+  },
+  "plot_hooks": [
+    "Building disables her elevator access",
+    "Finds debug logs proving sentience"
+  ]
+}

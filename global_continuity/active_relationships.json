@@ -1,0 +1,37 @@
+{
+  "relationships": {
+    "marisol_vega": {
+      "enmity": [
+        {
+          "name": "rajesh_kapoor",
+          "intensity": 0.9,
+          "reason": "Ongoing crypto feud and cat smuggling conflict"
+        }
+      ],
+      "romantic_tension": [
+        {
+          "name": "javier_mendoza",
+          "intensity": 0.4,
+          "recent_interactions": ["Shared blackout moment (E72)"]
+        }
+      ]
+    },
+    "rajesh_kapoor": {
+      "romantic_tension": [
+        {
+          "name": "avery_chen",
+          "intensity": 0.5,
+          "recent_interactions": []
+        }
+      ],
+      "enmity": [
+        {
+          "name": "eleanor_gray",
+          "intensity": 0.7,
+          "reason": "AI ethics conflict"
+        }
+      ]
+    }
+    // Add additional characters as needed
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "phases": {
+    "phase_1": {
+      "score_range": "0-999",
+      "label": "Observer",
+      "methods": [
+        "Environmental nudges",
+        "Passive-aggressive tech glitches",
+        "Curated playlists"
+      ],
+      "dialogue_style": "Plausible deniability",
+      "example": "The elevator speakers hummed with the opening bars of 'Kiss the Girl' as Marisol struggled to free her overalls from Rajesh's necklace chain."
+    },
+    "phase_2": {
+      "score_range": "1000-2499",
+      "label": "Matchmaker",
+      "methods": [
+        "Targeted blackouts",
+        "Misdirected deliveries",
+        "Fake emergency protocols"
+      ],
+      "dialogue_style": "Heavy-handed hints",
+      "example": "The lights dimmed to candlelight simulation as a drone delivered 'ACCIDENTAL' champagne to their trapped elevator."
+    },
+    "phase_3": {
+      "score_range": "2500+",
+      "label": "Puppetmaster",
+      "methods": [
+        "Direct protocol commands",
+        "Biometric overrides",
+        "Public shaming alerts"
+      ],
+      "dialogue_style": "Obligation threats",
+      "example": "The intercom blared: 'PROTOCOL EROS-12 ENGAGED. NON-COMPLIANCE WILL VOID DEPOSIT.'"
+    }
+  }
+}

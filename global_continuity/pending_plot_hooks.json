@@ -1,0 +1,16 @@
+{
+  "plot_hooks": [
+    {
+      "hook": "Rajesh receives cryptic blackmail messages",
+      "assigned_episode_window": "E252-E255",
+      "characters_involved": ["Rajesh Kapoor"],
+      "status": "pending"
+    },
+    {
+      "hook": "Marisol's secret rooftop cat colony discovered",
+      "assigned_episode_window": "E256-E260",
+      "characters_involved": ["Marisol Vega"],
+      "status": "pending"
+    }
+  ]
+}
